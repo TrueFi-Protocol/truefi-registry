@@ -1,0 +1,21 @@
+{
+  "name": "Borrower 0xB60",
+  "addresses": [ "0xB608275Fe61A5FDa93713813D17326fC4CD4b976" ],
+  "website": "",
+  "description": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/borrower0xB60/logo.png",
+  "explorer": "https://etherscan.io/address/0xB608275Fe61A5FDa93713813D17326fC4CD4b976/",
+  "status": "active",
+  "github": "",
+  "forumPost": "",
+  "socials": {
+    "twitter" : {
+      "url": "",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "",
+      "handle": ""
+    }
+  }
+}
