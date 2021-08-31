@@ -2,8 +2,7 @@
   "name": "Plutus Lending LLC",
   "addresses": [ "0x6C004dBA3f1E83dD060b05b9C888ae14cc027231" ],
   "website": "https://www.abra.com/",
-  "description": "Abra is a venture-backed startup founded in Mountain View, CA, building an easy-to-use crypto investing app. Our vision is straightforward - to build an open, global financial system that is easily accessible to everyone.
-",
+  "description": "Abra is a venture-backed startup founded in Mountain View, CA, building an easy-to-use crypto investing app. Our vision is straightforward - to build an open, global financial system that is easily accessible to everyone.",
   "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/plutusLending/logo.png",
   "explorer": "https://etherscan.io/address/0x6C004dBA3f1E83dD060b05b9C888ae14cc027231/",
   "status": "active",
