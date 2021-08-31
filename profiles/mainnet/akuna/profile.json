@@ -1,0 +1,21 @@
+{
+  "name": "Akuna",
+  "addresses": [ "0xA294cCa691e4C83B1fc0c8d63D9a3eeF0A196DE1" ],
+  "website": "https://akunacapital.com/",
+  "description": "Akuna is a prop trading firm providing liquidity across all leading crypto markets. ",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/alameda/logo.png",
+  "explorer": "https://etherscan.io/address/0xA294cCa691e4C83B1fc0c8d63D9a3eeF0A196DE1/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/akuna-borrow-request/754",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/AkunaCapital",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/akuna-capital",
+      "handle": ""
+    }
+  }
+}
