@@ -1,0 +1,20 @@
+{
+  "name": "Sixtant",
+  "address": "0x89dEd350B2Be3DC2014C71f1E49CDFaD17ccaF7c",
+  "website": "https://www.sixtant.io/",
+  "description": "Market neutral high-frequency prop shop and market maker",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/sixtant/logo.png",
+  "explorer": "https://etherscan.io/address/0x89dEd350B2Be3DC2014C71f1E49CDFaD17ccaF7c/",
+  "status": "active",
+  "forumPost": "https://forum.truefi.io/t/sixtant-borrower-request/769",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/sixtantio",
+      "handle": "sixtant"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/sixtant",
+      "handle": "sixtant"
+    }
+  }
+}
