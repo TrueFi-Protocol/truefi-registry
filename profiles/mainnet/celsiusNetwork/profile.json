@@ -1,1 +1,21 @@
-
+{
+  "name": "Celsius Network",
+  "addresses": [ "0x3CCf39E3f47a8bF6145b781F8236454F73079B41" ],
+  "website": "https://celsius.network/",
+  "description": "A leading crypto borrow and lending platform where we put our community first, passing back 80% of yield to our community",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/celsiusNetwork/logo.png",
+  "explorer": "https://etherscan.io/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/celsius-borrow-request/784/2",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/celsiusnetwork",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/celsiusnetwork/",
+      "handle": ""
+    }
+  }
+}
