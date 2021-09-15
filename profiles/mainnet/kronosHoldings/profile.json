@@ -1,0 +1,10 @@
+{
+  "name": "Kronos Holdings Ltd",
+  "addresses": [ "0x807Cb3CaEbD88497a63ef8987740969Cbc06eD45" ],
+  "description": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/kronosHoldings/logo.png",
+  "explorer": "https://etherscan.io/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/kronos-borrow-request/793"
+}
