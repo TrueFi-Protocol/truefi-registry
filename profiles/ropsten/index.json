@@ -1,4 +1,5 @@
 {
   "0x03bD39a306DfE74937033d50eB278623D8b60804": { "id": "truefi", "name": "TrueFi Dev" },
-  "0x709585aa3e0e649F33906Fc197a1B4538565a849": { "id": "devtest", "name": "Dev Test" }
+  "0x709585aa3e0e649F33906Fc197a1B4538565a849": { "id": "devtest", "name": "Dev Test" },
+  "0xcDc43c1A4050508219F4F9d7DB997bcd52679cEa": { "id": "subh", "name": "subh-test" }
 }
