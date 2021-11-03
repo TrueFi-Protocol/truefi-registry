@@ -1,0 +1,12 @@
+{
+  "name": "Vexil Capital",
+  "addresses": [ "0x12De80ec58568218C2762b3DEeE7d17cF6a64f0C" ],
+  "website": "https://vexil.capital/",
+  "description": "A proprietary trading firm specializing in market-neutral strategies. We focus on trading large market-cap cryptocurrencies and their derivatives, utilizing arbitrage strategies that allow us to thrive in all market conditions.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/vexilCapital/logo.png",
+  "explorer": "https://etherscan.io/address/0x12De80ec58568218C2762b3DEeE7d17cF6a64f0C",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/vexil-capital-borrow-request/823",
+  "socials": {}
+}
