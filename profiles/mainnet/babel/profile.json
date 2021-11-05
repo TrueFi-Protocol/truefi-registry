@@ -1,0 +1,21 @@
+{
+  "name": "Babel Finance",
+  "addresses": [ "0x1E7D2562B50c8B36aA353b06ac9434d96c23AE94" ],
+  "website": "https://babel.finance/",
+  "description": "A crypto asset manager active in BTC, ETH, stablecoins and option trading.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/babel/logo.png",
+  "explorer": "https://etherscan.io/address/0x1E7D2562B50c8B36aA353b06ac9434d96c23AE94/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/babel-finance-borrow-request/835",
+  "socials": {
+    "twitter" : {
+      "url": "",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "",
+      "handle": ""
+    }
+  }
+}
