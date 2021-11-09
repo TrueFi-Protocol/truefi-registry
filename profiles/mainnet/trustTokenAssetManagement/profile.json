@@ -1,0 +1,10 @@
+{
+  "name": "TrustToken Asset Management",
+  "addresses": [ "0xC8bD2387DB21aAFdD5235B4f223fd5E2c2815eD4" ],
+  "website": "https://www.trusttoken.com/",
+  "description": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/trustTokenAssetManagement/logo.svg",
+  "explorer": "https://etherscan.io/address/0xC8bD2387DB21aAFdD5235B4f223fd5E2c2815eD4",
+  "status": "active",
+  "socials": {}
+}
