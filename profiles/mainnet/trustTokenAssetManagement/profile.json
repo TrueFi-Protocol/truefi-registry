@@ -6,15 +6,5 @@
   "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/trustTokenAssetManagement/logo.svg",
   "explorer": "https://etherscan.io/address/0xC8bD2387DB21aAFdD5235B4f223fd5E2c2815eD4",
   "status": "active",
-  "github": "https://github.com/trusttoken",
-  "socials": {
-    "twitter" : {
-      "url": "https://twitter.com/TrustToken",
-      "handle": "TrustToken"
-    },
-    "medium": {
-      "url": "https://blog.trusttoken.com/",
-      "handle": "TrustToken"
-    }
-  }
+  "socials": {}
 }
