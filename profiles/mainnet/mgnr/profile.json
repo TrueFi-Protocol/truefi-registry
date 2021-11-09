@@ -1,6 +1,6 @@
 {
   "name": "mgnr.io",
-  "addresses": [ "0xa801855EF035dB7f90F4dD11Ee4A49Ac47DB0ccd" ],
+  "addresses": [ "0xa801855EF035dB7f90F4dD11Ee4A49Ac47DB0ccd", "0x931057B79FF539DB5A2813BCb3a3ca5B5242E82C" ],
   "website": "https://mgnr.io/",
   "description": "mgnr is a systematic proprietary trading firm that uses innovative quantitative research and rigorous engineering to capture trading opportunities around the globe 24/7/365.",
   "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/mgnr/logo.svg",
