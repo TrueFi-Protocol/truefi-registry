@@ -1,0 +1,21 @@
+{
+  "name": "Matrixport",
+  "addresses": [ "0x09B09315D9606756b47795c3eCA005AE28c0387f" ],
+  "website": "https://invest.matrixport.dev/en",
+  "description": "Matrixport is Asia’s one-stop digital assets financial services platform. Users can invest, trade and leverage crypto assets.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/matrixport/logo.png",
+  "explorer": "https://etherscan.io/address/0x09B09315D9606756b47795c3eCA005AE28c0387f",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/greetings-from-matrixport/855",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/realMatrixport",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/matrixport",
+      "handle": ""
+    }
+  }
+}
