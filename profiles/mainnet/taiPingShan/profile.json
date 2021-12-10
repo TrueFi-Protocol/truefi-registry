@@ -1,0 +1,12 @@
+{
+  "name": "Tai Ping Shan Limited - backed by Three Arrows Capital",
+  "addresses": [ "0x5DaeeACF169Af4996e09a0AfD7D4d488ed1A8AFc" ],
+  "website": "https://www.tpscap.com/",
+  "description": "Tai Ping Shan Capital (TPS) functions as a principal trading desk, providing market-making, trade facilitation and block trade services to a variety of counter-parties. Backed by Three Arrows Capital, a MAS licensed hedge fund with 4b USD AUM, TPS has access to proprietary capital, internal tech and operational expertise, top-tier counter-parties, and exclusive investment opportunities.  TPS is also applying Cayman Island Monetary Authority License.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/taiPingShan/logo.png",
+  "explorer": "https://etherscan.io/address/0x5DaeeACF169Af4996e09a0AfD7D4d488ed1A8AFc/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/tai-ping-shan-limited-backed-by-three-arrows-capital-borrow-request/865",
+  "socials": {}
+}
