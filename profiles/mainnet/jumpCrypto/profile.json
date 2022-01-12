@@ -1,0 +1,21 @@
+{
+  "name": "Jump Crypto",
+  "addresses": [ "0x17C19fcc660b765A39e3B961163d762b666daA7e" ],
+  "website": "https://jumpcrypto.com/",
+  "description": "Jump Crypto is a part of the Jump Trading Group, a research-based trading firm active in a number of asset classes globally. Jump Trading Group traces its origins to 1999. Jump’s Crypto efforts began in 2014. Jump Crypto has two main mandates: 1) Build a robust platform to enable substantial and graceful participation in the often idiosyncratic global markets and 2) Based on our thesis that the space will continue to grow significantly over a long time horizon, engage directly with crypto projects and ecosystems.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/jumpCrypto/logo.png",
+  "explorer": "https://etherscan.io/address/0x17C19fcc660b765A39e3B961163d762b666daA7e/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/jump-crypto-borrow-request/900",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/jumpcryptohq?lang=en",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/jump-crypto",
+      "handle": ""
+    }
+  }
+}
