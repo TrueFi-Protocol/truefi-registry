@@ -1,0 +1,21 @@
+{
+  "name": "Hodlnaut",
+  "addresses": [ "0x6dC861183f6C477E95c5325230FBeDC10a808570" ],
+  "website": "https://www.hodlnaut.com",
+  "description": "A crypto yield aggregator platform for retail markets.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/hodlnaut/logo.png",
+  "explorer": "https://etherscan.io/address/0x6dC861183f6C477E95c5325230FBeDC10a808570/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/hodlnaut-borrow-request/888",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/hodlnautdotcom",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://sg.linkedin.com/company/hodlnaut",
+      "handle": ""
+    }
+  }
+}
