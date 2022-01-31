@@ -14,6 +14,8 @@ The [TrueFi](https://app.truefi.io) platform utilizes assets from this repositor
 
 Profile metadata will be read from a json file corresponding to an entity's active wallet address.
 
+First of all change the branch to "staging" on the left side. 
+
 Create a new directory under the correct network <b>profiles/mainnet</b> or <b>profiles/ropsten</b>.
 
 The directory name should be the entity's wallet address used to participate on TrueFi and should contain the entity's profile data in a file titled <b>profile.json</b> with an optional logo file <b>logo.svg</b>.
@@ -24,38 +26,23 @@ Profile data should follow the following structure:
 
 ```
 {
-  "name": "TrueFi Borrower",
-  "address": "0x0",
-  "website": "https://truefi.io",
-  "description": "Freeing money to create more value",
-  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/truefi.svg",
-  "explorer": "https://etherscan.io",
+  "name": "Invictus Capital",
+  "address": "0xCAFD96A3475aa9afcC66bc5f9FF589C74ce6A4Bc",
+  "website": "https://invictuscapital.com/en/",
+  "description": "Invictus Capital offers alternative investment products for the modern investor. They believe investing should be convenient, transparent and low-cost.",
+  "logoURI": "",
+  "explorer": "https://etherscan.io/address/0xCAFD96A3475aa9afcC66bc5f9FF589C74ce6A4Bc/",
   "status": "active",
-  "github": "https://github.com",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/invictus-capital-borrow-request/82",
   "socials": {
     "twitter" : {
-      "url": "https://twitter.com",
-      "handle": "twUser"
-    },
-    "medium": {
-      "url": "https://medium.com",
-      "handle": "medUser"
-    },
-    "discord": {
-      "url": "https://discord.com",
-      "handle": "dcUser"
-    },
-    "telegram": {
-      "url": "https://telegram.org/",
-      "handle": "tgUser"
+      "url": "https://twitter.com/ic_invictus",
+      "handle": ""
     },
     "linkedin": {
-      "url": "https://www.linkedin.com/",
-      "handle": "lnUser"
-    },
-    "youtube": {
-      "url": "https://youtube.com",
-      "handle": "ytUser"
+      "url": "https://www.linkedin.com/company/invictuscapital/",
+      "handle": ""
     }
   }
 }
