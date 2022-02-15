@@ -1,0 +1,17 @@
+{
+  "name": "Dunamis Trading III",
+  "addresses": [ "0x4F8A4b880CFBbF93eF2f959a502757E815Bd68cA" ],
+  "website": "https://www.dunamistg.com/",
+  "description": "Dunamis Trading is a fintech that manages resources electronically for a small group of qualified investors. We combine cutting edge technology with precise trading strategies, targeting consistent returns. Ethical, Pragmatic, competent and always acting with integrity.",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/dunamis/logo.png",
+  "explorer": "https://etherscan.io/address/0x4F8A4b880CFBbF93eF2f959a502757E815Bd68cA/",
+  "status": "active",
+  "github": "",
+  "forumPost": "",
+  "socials": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/dunamistrading/",
+      "handle": "dunamistrading"
+    }
+  }
+}
