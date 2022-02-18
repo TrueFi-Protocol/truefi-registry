@@ -1,6 +1,6 @@
 {
   "name": "TrueTrading",
-  "addresses": [ "0xC8bD2387DB21aAFdD5235B4f223fd5E2c2815eD4" ],
+  "addresses": [ "0xf0aE09d3ABdF3641e2eB4cD45cf56873296a02CB", "0xC8bD2387DB21aAFdD5235B4f223fd5E2c2815eD4" ],
   "website": "https://www.trusttoken.com/",
   "description": "",
   "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/trustTokenAssetManagement/logo.svg",
