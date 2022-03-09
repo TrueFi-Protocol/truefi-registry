@@ -1,10 +1,10 @@
 {
   "name": "Auros",
-  "addresses": [ "0xFF0CEfDbd6bf757cc0CC361ddfBdE432186Ccaa6" ],
+  "addresses": [ "0x07B6c7bC3d7dc0f36133b542eA51aA7Ac560E974", "0xFF0CEfDbd6bf757cc0CC361ddfBdE432186Ccaa6" ],
   "website": "https://auros.global/",
   "description": "Auros is a leading cryptocurrency trading firm, specialising in partnership-based liquidity provision and best-in-class HFT strategies.",
   "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/auros/logo.png",
-  "explorer": "https://etherscan.io/address/0xFF0CEfDbd6bf757cc0CC361ddfBdE432186Ccaa6/",
+  "explorer": "https://etherscan.io/address/0x07B6c7bC3d7dc0f36133b542eA51aA7Ac560E974/",
   "status": "active",
   "github": "",
   "socials": {
