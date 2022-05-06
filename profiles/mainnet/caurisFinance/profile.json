@@ -1,0 +1,21 @@
+{
+  "name": "Cauris Finance",
+  "addresses": ["0x0D670Fb8c5d8B76E61431329DC19270D1e40d60C"],
+  "website": "",
+  "description": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/caurisFinance/logo.jpeg",
+  "explorer": "https://etherscan.io/address/0x0d670fb8c5d8b76e61431329dc19270d1e40d60c/",
+  "status": "active",
+  "github": "",
+  "forumPost": "",
+  "socials": {
+    "twitter": {
+      "url": "",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "",
+      "handle": ""
+    }
+  }
+}
