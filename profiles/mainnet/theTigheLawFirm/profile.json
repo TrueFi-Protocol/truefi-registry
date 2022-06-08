@@ -1,0 +1,21 @@
+{
+  "name": "The Tighe Law Firm",
+  "addresses": ["0x19885377b0d10c7697dF33EdA5cb276C9837ebAE"],
+  "website": "",
+  "description": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/caurisFinance/logo.png",
+  "explorer": "https://etherscan.io/address/0x19885377b0d10c7697dF33EdA5cb276C9837ebAE/",
+  "status": "active",
+  "github": "",
+  "forumPost": "",
+  "socials": {
+    "twitter": {
+      "url": "",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "",
+      "handle": ""
+    }
+  }
+}
