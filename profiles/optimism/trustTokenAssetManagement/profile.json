@@ -1,0 +1,10 @@
+{
+  "name": "TrueTrading",
+  "addresses": [ "0xAA99Ee681AD313BA8B370F736267853EB2e44B84" ],
+  "website": "https://www.trusttoken.com/",
+  "description": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/trustTokenAssetManagement/logo.svg",
+  "explorer": "https://optimistic.etherscan.io/address/0xAA99Ee681AD313BA8B370F736267853EB2e44B84",
+  "status": "active",
+  "socials": {}
+}
