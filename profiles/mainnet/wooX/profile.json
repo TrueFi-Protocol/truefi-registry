@@ -1,0 +1,21 @@
+{
+  "name": "WooX",
+  "addresses": ["0x40d811662c61D140245D24E7dcfE240c40D32e4A"],
+  "website": "",
+  "description": "",
+  "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/wooX/logo.png",
+  "explorer": "https://etherscan.io/address/0x40d811662c61D140245D24E7dcfE240c40D32e4A/",
+  "status": "active",
+  "github": "",
+  "forumPost": "",
+  "socials": {
+    "twitter": {
+      "url": "",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "",
+      "handle": ""
+    }
+  }
+}
