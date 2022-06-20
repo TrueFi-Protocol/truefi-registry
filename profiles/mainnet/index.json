@@ -47,5 +47,6 @@
   "0xA1614eC01d13E04522ED0b085C7a178ED9E99bc9": { "id": "wintermute", "name": "Wintermute Trading" },
   "0xdcf45Ec32B553C8274596CD6401dD78A0fAc8CC1": { "id": "wintermute", "name": "Wintermute Trading" },
   "0x0D670Fb8c5d8B76E61431329DC19270D1e40d60C": { "id": "caurisFinance", "name": "Cauris Finance"},
-  "0x19885377b0d10c7697dF33EdA5cb276C9837ebAE": { "id": "theTigheLawFirm", "name": "The Tighe Law Firm"}
+  "0x19885377b0d10c7697dF33EdA5cb276C9837ebAE": { "id": "theTigheLawFirm", "name": "The Tighe Law Firm" },
+  "0x40d811662c61d140245d24e7dcfe240c40d32e4a": { "id": "wooX", "name": "WOO X" }
 }
