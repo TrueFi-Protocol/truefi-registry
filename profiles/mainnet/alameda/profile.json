@@ -1,10 +1,10 @@
 {
   "name": "Alameda Research Ltd.",
-  "addresses": [ "0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C" ],
+  "addresses": [ "0x1C9DAFdcE112bf41795C5eEe2233BbE1b9018A83", "0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C" ],
   "website": "https://www.alameda-research.com/",
   "description": "Alameda Research is a quantitative cryptocurrency trading firm and liquidity provider.",
   "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/alameda/logo.png",
-  "explorer": "https://etherscan.io/address/0x964d9D1A532B5a5DaeacBAc71d46320DE313AE9C/",
+  "explorer": "https://etherscan.io/address/0x1C9DAFdcE112bf41795C5eEe2233BbE1b9018A83/",
   "status": "active",
   "github": "",
   "forumPost": "https://forum.truefi.io/t/alameda-research-borrow-request/137/",
