@@ -1,8 +1,8 @@
 {
-  "name": "Invictus Capital",
+  "name": "New World Holdings / Invictus Capital",
   "addresses": [ "0x495F8bC43b920279D33d1B34873Ab8832440c322","0xCAFD96A3475aa9afcC66bc5f9FF589C74ce6A4Bc" ],
   "website": "https://invictuscapital.com/en/",
-  "description": "Invictus Capital offers alternative investment products for the modern investor. They believe investing should be convenient, transparent and low-cost.",
+  "description": "New World Holdings / Invictus Capital offers alternative investment products for the modern investor. They believe investing should be convenient, transparent and low-cost.",
   "logoURI": "https://raw.githubusercontent.com/trusttoken/truefi-registry/main/profiles/mainnet/invictus/logo.svg",
   "explorer": "https://etherscan.io/address/0xCAFD96A3475aa9afcC66bc5f9FF589C74ce6A4Bc/",
   "status": "active",
